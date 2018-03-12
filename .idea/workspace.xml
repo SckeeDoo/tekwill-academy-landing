@@ -2,8 +2,215 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo@1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo@2.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/image/homepage-3-slider-img-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/logo@2x.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/laptop.png" afterPath="$PROJECT_DIR$/public/images/laptop.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/404.html" afterPath="$PROJECT_DIR$/public/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/about-me.html" afterPath="$PROJECT_DIR$/public/about-me.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/about-us-classic.html" afterPath="$PROJECT_DIR$/public/about-us-classic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/about-us-modern.html" afterPath="$PROJECT_DIR$/public/about-us-modern.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/about-us-simple.html" afterPath="$PROJECT_DIR$/public/about-us-simple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/accordions.html" afterPath="$PROJECT_DIR$/public/accordions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blockquote.html" afterPath="$PROJECT_DIR$/public/blockquote.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-audio-post.html" afterPath="$PROJECT_DIR$/public/blog-audio-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-blockquote-post.html" afterPath="$PROJECT_DIR$/public/blog-blockquote-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-classic-full-width.html" afterPath="$PROJECT_DIR$/public/blog-classic-full-width.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-classic.html" afterPath="$PROJECT_DIR$/public/blog-classic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-clean-full-width.html" afterPath="$PROJECT_DIR$/public/blog-clean-full-width.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-clean.html" afterPath="$PROJECT_DIR$/public/blog-clean.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-full-width-post.html" afterPath="$PROJECT_DIR$/public/blog-full-width-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-gallery-post.html" afterPath="$PROJECT_DIR$/public/blog-gallery-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-grid-full-width.html" afterPath="$PROJECT_DIR$/public/blog-grid-full-width.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-grid.html" afterPath="$PROJECT_DIR$/public/blog-grid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-html5-video-post.html" afterPath="$PROJECT_DIR$/public/blog-html5-video-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-images-full-width.html" afterPath="$PROJECT_DIR$/public/blog-images-full-width.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-images.html" afterPath="$PROJECT_DIR$/public/blog-images.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-list-full-width.html" afterPath="$PROJECT_DIR$/public/blog-list-full-width.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-list.html" afterPath="$PROJECT_DIR$/public/blog-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-masonry-full-width.html" afterPath="$PROJECT_DIR$/public/blog-masonry-full-width.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-masonry.html" afterPath="$PROJECT_DIR$/public/blog-masonry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-only-text-full-width.html" afterPath="$PROJECT_DIR$/public/blog-only-text-full-width.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-only-text.html" afterPath="$PROJECT_DIR$/public/blog-only-text.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-post-layout-01.html" afterPath="$PROJECT_DIR$/public/blog-post-layout-01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-post-layout-02.html" afterPath="$PROJECT_DIR$/public/blog-post-layout-02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-post-layout-03.html" afterPath="$PROJECT_DIR$/public/blog-post-layout-03.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-post-layout-04.html" afterPath="$PROJECT_DIR$/public/blog-post-layout-04.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-post-layout-05.html" afterPath="$PROJECT_DIR$/public/blog-post-layout-05.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-posts.html" afterPath="$PROJECT_DIR$/public/blog-posts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-simple-full-width.html" afterPath="$PROJECT_DIR$/public/blog-simple-full-width.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-simple.html" afterPath="$PROJECT_DIR$/public/blog-simple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-slider-post.html" afterPath="$PROJECT_DIR$/public/blog-slider-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-standard-full-width.html" afterPath="$PROJECT_DIR$/public/blog-standard-full-width.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-standard-post.html" afterPath="$PROJECT_DIR$/public/blog-standard-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-standard-with-left-sidebar.html" afterPath="$PROJECT_DIR$/public/blog-standard-with-left-sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-standard-with-right-sidebar.html" afterPath="$PROJECT_DIR$/public/blog-standard-with-right-sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-vimeo-video-post.html" afterPath="$PROJECT_DIR$/public/blog-vimeo-video-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-youtube-video-post.html" afterPath="$PROJECT_DIR$/public/blog-youtube-video-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/buttons.html" afterPath="$PROJECT_DIR$/public/buttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/call-to-action.html" afterPath="$PROJECT_DIR$/public/call-to-action.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/center-logo.html" afterPath="$PROJECT_DIR$/public/center-logo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/client-carousel.html" afterPath="$PROJECT_DIR$/public/client-carousel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/clients.html" afterPath="$PROJECT_DIR$/public/clients.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/columns.html" afterPath="$PROJECT_DIR$/public/columns.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact-form.html" afterPath="$PROJECT_DIR$/public/contact-form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact-us-classic-02.html" afterPath="$PROJECT_DIR$/public/contact-us-classic-02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact-us-classic.html" afterPath="$PROJECT_DIR$/public/contact-us-classic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact-us-modern.html" afterPath="$PROJECT_DIR$/public/contact-us-modern.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact-us-simple.html" afterPath="$PROJECT_DIR$/public/contact-us-simple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/countdown.html" afterPath="$PROJECT_DIR$/public/countdown.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/counters.html" afterPath="$PROJECT_DIR$/public/counters.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/custom-icon-with-text.html" afterPath="$PROJECT_DIR$/public/custom-icon-with-text.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/dark-header.html" afterPath="$PROJECT_DIR$/public/dark-header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/dropcaps.html" afterPath="$PROJECT_DIR$/public/dropcaps.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fancy-text-box.html" afterPath="$PROJECT_DIR$/public/fancy-text-box.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/faq.html" afterPath="$PROJECT_DIR$/public/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-center-logo-02-dark.html" afterPath="$PROJECT_DIR$/public/footer-center-logo-02-dark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-center-logo-02.html" afterPath="$PROJECT_DIR$/public/footer-center-logo-02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-center-logo-dark.html" afterPath="$PROJECT_DIR$/public/footer-center-logo-dark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-center-logo.html" afterPath="$PROJECT_DIR$/public/footer-center-logo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-classic-dark.html" afterPath="$PROJECT_DIR$/public/footer-classic-dark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-classic.html" afterPath="$PROJECT_DIR$/public/footer-classic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-clean-dark.html" afterPath="$PROJECT_DIR$/public/footer-clean-dark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-clean.html" afterPath="$PROJECT_DIR$/public/footer-clean.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-modern-dark.html" afterPath="$PROJECT_DIR$/public/footer-modern-dark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-modern.html" afterPath="$PROJECT_DIR$/public/footer-modern.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-standard-dark.html" afterPath="$PROJECT_DIR$/public/footer-standard-dark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-standard.html" afterPath="$PROJECT_DIR$/public/footer-standard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-strip-dark.html" afterPath="$PROJECT_DIR$/public/footer-strip-dark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/footer-strip.html" afterPath="$PROJECT_DIR$/public/footer-strip.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/google-map.html" afterPath="$PROJECT_DIR$/public/google-map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/header-with-push.html" afterPath="$PROJECT_DIR$/public/header-with-push.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/header-with-top-bar.html" afterPath="$PROJECT_DIR$/public/header-with-top-bar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/heading.html" afterPath="$PROJECT_DIR$/public/heading.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/highlights.html" afterPath="$PROJECT_DIR$/public/highlights.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-blog-clean.html" afterPath="$PROJECT_DIR$/public/home-blog-clean.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-blog-grid.html" afterPath="$PROJECT_DIR$/public/home-blog-grid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-blog-masonry.html" afterPath="$PROJECT_DIR$/public/home-blog-masonry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-blog-personal.html" afterPath="$PROJECT_DIR$/public/home-blog-personal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-classic-corporate.html" afterPath="$PROJECT_DIR$/public/home-classic-corporate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-classic-digital-agency.html" afterPath="$PROJECT_DIR$/public/home-classic-digital-agency.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-classic-innovation-agency.html" afterPath="$PROJECT_DIR$/public/home-classic-innovation-agency.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-classic-interactive-agency.html" afterPath="$PROJECT_DIR$/public/home-classic-interactive-agency.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-classic-one-page-gallery.html" afterPath="$PROJECT_DIR$/public/home-classic-one-page-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-classic-one-page.html" afterPath="$PROJECT_DIR$/public/home-classic-one-page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-classic-start-up.html" afterPath="$PROJECT_DIR$/public/home-classic-start-up.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-classic-web-agency.html" afterPath="$PROJECT_DIR$/public/home-classic-web-agency.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-creative-branding-agency.html" afterPath="$PROJECT_DIR$/public/home-creative-branding-agency.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-creative-business.html" afterPath="$PROJECT_DIR$/public/home-creative-business.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-creative-designer.html" afterPath="$PROJECT_DIR$/public/home-creative-designer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-creative-simple-portfolio.html" afterPath="$PROJECT_DIR$/public/home-creative-simple-portfolio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-creative-small-business.html" afterPath="$PROJECT_DIR$/public/home-creative-small-business.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-creative-studio.html" afterPath="$PROJECT_DIR$/public/home-creative-studio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-portfolio-centered-slides.html" afterPath="$PROJECT_DIR$/public/home-portfolio-centered-slides.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-portfolio-metro.html" afterPath="$PROJECT_DIR$/public/home-portfolio-metro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-portfolio-minimal.html" afterPath="$PROJECT_DIR$/public/home-portfolio-minimal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-portfolio-parallax.html" afterPath="$PROJECT_DIR$/public/home-portfolio-parallax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home-portfolio-photographer.html" afterPath="$PROJECT_DIR$/public/home-portfolio-photographer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/icon-with-text.html" afterPath="$PROJECT_DIR$/public/icon-with-text.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/image-gallery.html" afterPath="$PROJECT_DIR$/public/image-gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/info-banner.html" afterPath="$PROJECT_DIR$/public/info-banner.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/instagram.html" afterPath="$PROJECT_DIR$/public/instagram.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/interactive-banners.html" afterPath="$PROJECT_DIR$/public/interactive-banners.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/left-menu-classic.html" afterPath="$PROJECT_DIR$/public/left-menu-classic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/lightbox-gallery.html" afterPath="$PROJECT_DIR$/public/lightbox-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/lists.html" afterPath="$PROJECT_DIR$/public/lists.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/message-box.html" afterPath="$PROJECT_DIR$/public/message-box.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/modal-popup.html" afterPath="$PROJECT_DIR$/public/modal-popup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/one-page-navigation.html" afterPath="$PROJECT_DIR$/public/one-page-navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/open-google-map.html" afterPath="$PROJECT_DIR$/public/open-google-map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/open-vimeo-video.html" afterPath="$PROJECT_DIR$/public/open-vimeo-video.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/open-youtube-video.html" afterPath="$PROJECT_DIR$/public/open-youtube-video.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/our-clients.html" afterPath="$PROJECT_DIR$/public/our-clients.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/overline-icon-box.html" afterPath="$PROJECT_DIR$/public/overline-icon-box.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page-title-background-breadcrumbs.html" afterPath="$PROJECT_DIR$/public/page-title-background-breadcrumbs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page-title-background-video.html" afterPath="$PROJECT_DIR$/public/page-title-background-video.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page-title-big-typography.html" afterPath="$PROJECT_DIR$/public/page-title-big-typography.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page-title-center-alignment.html" afterPath="$PROJECT_DIR$/public/page-title-center-alignment.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page-title-dark-style.html" afterPath="$PROJECT_DIR$/public/page-title-dark-style.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page-title-gallery-background.html" afterPath="$PROJECT_DIR$/public/page-title-gallery-background.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page-title-left-alignment.html" afterPath="$PROJECT_DIR$/public/page-title-left-alignment.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page-title-mini-version.html" afterPath="$PROJECT_DIR$/public/page-title-mini-version.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page-title-parallax-image-background.html" afterPath="$PROJECT_DIR$/public/page-title-parallax-image-background.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page-title-right-alignment.html" afterPath="$PROJECT_DIR$/public/page-title-right-alignment.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/parallax-scrolling.html" afterPath="$PROJECT_DIR$/public/parallax-scrolling.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pie-charts.html" afterPath="$PROJECT_DIR$/public/pie-charts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/popup-with-form.html" afterPath="$PROJECT_DIR$/public/popup-with-form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-carousel.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-carousel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-grid-overlay.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-grid-overlay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-grid-transform.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-grid-transform.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-grid-with-icon.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-grid-with-icon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-grid-zooming.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-grid-zooming.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-image-gallery.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-image-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-justified-gallery.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-justified-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-masonry-overlay.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-masonry-overlay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-masonry-with-icon.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-masonry-with-icon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-metro-overlay.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-metro-overlay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-metro-transform.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-metro-transform.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-metro-with-icon.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-metro-with-icon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-metro-zooming.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-metro-zooming.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-boxed-parallax.html" afterPath="$PROJECT_DIR$/public/portfolio-boxed-parallax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-five-columns.html" afterPath="$PROJECT_DIR$/public/portfolio-five-columns.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-four-columns.html" afterPath="$PROJECT_DIR$/public/portfolio-four-columns.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-carousel.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-carousel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-grid-overlay.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-grid-overlay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-grid-transform.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-grid-transform.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-grid-with-icon.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-grid-with-icon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-grid-zooming.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-grid-zooming.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-image-gallery.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-image-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-justified-gallery.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-justified-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-masonry-overlay.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-masonry-overlay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-masonry-with-icon.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-masonry-with-icon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-metro-overlay.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-metro-overlay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-metro-transform.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-metro-transform.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-metro-with-icon.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-metro-with-icon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-metro-zooming.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-metro-zooming.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-full-width-parallax.html" afterPath="$PROJECT_DIR$/public/portfolio-full-width-parallax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-slider.html" afterPath="$PROJECT_DIR$/public/portfolio-slider.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-three-columns.html" afterPath="$PROJECT_DIR$/public/portfolio-three-columns.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/portfolio-two-columns.html" afterPath="$PROJECT_DIR$/public/portfolio-two-columns.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pricing-table.html" afterPath="$PROJECT_DIR$/public/pricing-table.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pricing.html" afterPath="$PROJECT_DIR$/public/pricing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/process-bar.html" afterPath="$PROJECT_DIR$/public/process-bar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/process-step.html" afterPath="$PROJECT_DIR$/public/process-step.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/rotate-box.html" afterPath="$PROJECT_DIR$/public/rotate-box.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/search-result.html" afterPath="$PROJECT_DIR$/public/search-result.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/seperators.html" afterPath="$PROJECT_DIR$/public/seperators.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/services-classic.html" afterPath="$PROJECT_DIR$/public/services-classic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/services-modern.html" afterPath="$PROJECT_DIR$/public/services-modern.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/services-simple.html" afterPath="$PROJECT_DIR$/public/services-simple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/services.html" afterPath="$PROJECT_DIR$/public/services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/single-image-lightbox.html" afterPath="$PROJECT_DIR$/public/single-image-lightbox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/single-project-page-01.html" afterPath="$PROJECT_DIR$/public/single-project-page-01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/single-project-page-02.html" afterPath="$PROJECT_DIR$/public/single-project-page-02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/single-project-page-03.html" afterPath="$PROJECT_DIR$/public/single-project-page-03.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/single-project-page-04.html" afterPath="$PROJECT_DIR$/public/single-project-page-04.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/single-project-page-05.html" afterPath="$PROJECT_DIR$/public/single-project-page-05.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/single-project-page-06.html" afterPath="$PROJECT_DIR$/public/single-project-page-06.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/single-project-page-07.html" afterPath="$PROJECT_DIR$/public/single-project-page-07.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/single-project-page-08.html" afterPath="$PROJECT_DIR$/public/single-project-page-08.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/social-icons.html" afterPath="$PROJECT_DIR$/public/social-icons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/subscribe.html" afterPath="$PROJECT_DIR$/public/subscribe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tab.html" afterPath="$PROJECT_DIR$/public/tab.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/team-carousel.html" afterPath="$PROJECT_DIR$/public/team-carousel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/team-classic.html" afterPath="$PROJECT_DIR$/public/team-classic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/team-simple.html" afterPath="$PROJECT_DIR$/public/team-simple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/team.html" afterPath="$PROJECT_DIR$/public/team.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/testimonials-carousel.html" afterPath="$PROJECT_DIR$/public/testimonials-carousel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/testimonials.html" afterPath="$PROJECT_DIR$/public/testimonials.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/text-box.html" afterPath="$PROJECT_DIR$/public/text-box.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/text-slider.html" afterPath="$PROJECT_DIR$/public/text-slider.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/thank-you.html" afterPath="$PROJECT_DIR$/public/thank-you.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/top-logo.html" afterPath="$PROJECT_DIR$/public/top-logo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/transparent-header-center-logo.html" afterPath="$PROJECT_DIR$/public/transparent-header-center-logo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/transparent-header.html" afterPath="$PROJECT_DIR$/public/transparent-header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/video.html" afterPath="$PROJECT_DIR$/public/video.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/white-header.html" afterPath="$PROJECT_DIR$/public/white-header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/zoom-gallery.html" afterPath="$PROJECT_DIR$/public/zoom-gallery.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,35 +231,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1048">
-              <caret line="1691" column="7" lean-forward="false" selection-start-line="1691" selection-start-column="7" selection-end-line="1691" selection-end-column="7" />
+            <state relative-caret-position="673">
+              <caret line="273" column="92" lean-forward="false" selection-start-line="273" selection-start-column="92" selection-end-line="273" selection-end-column="92" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="heading.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/heading.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home-classic-corporate.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/home-classic-corporate.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="662" column="75" lean-forward="false" selection-start-line="662" selection-start-column="70" selection-end-line="662" selection-end-column="75" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#15;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#15;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -62,12 +243,40 @@
       <file leaf-file-name="home-classic-web-agency.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/home-classic-web-agency.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="604" column="89" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1691" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="718">
+              <caret line="927" column="390" lean-forward="true" selection-start-line="600" selection-start-column="28" selection-end-line="927" selection-end-column="390" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo@1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/images/logo@1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo@2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/images/logo@2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo-white@2x.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/images/logo-white@2x.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heading.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/heading.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -104,8 +313,8 @@
       <find>we work</find>
       <find>45</find>
       <find>rs-parallaxlevel-8rs-parallaxlevel-8</find>
-      <find>rZ:45</find>
       <find>slide-3238-layer-4</find>
+      <find>rZ:45</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -250,6 +459,24 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tekwill-academy-landing">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="public">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="images">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -264,13 +491,14 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/template/it-park/style/images/companies" />
       <recent name="$PROJECT_DIR$/template/it-park/style/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunManager">
@@ -351,12 +579,12 @@
       <workItem from="1513941956266" duration="7788000" />
       <workItem from="1514884252505" duration="227000" />
       <workItem from="1514897704989" duration="10354000" />
-      <workItem from="1520865274891" duration="6941000" />
+      <workItem from="1520865274891" duration="14025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27515000" />
+    <option name="totallyTimeSpent" value="34599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -392,41 +620,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/elements.html" />
     <entry file="file://$PROJECT_DIR$/public/style.css" />
     <entry file="file://$PROJECT_DIR$/public/index.html">
@@ -434,20 +627,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/elements.html" />
-    <entry file="file://$PROJECT_DIR$/public/style.css" />
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -461,7 +640,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -475,7 +653,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -493,7 +670,6 @@
         <state relative-caret-position="450">
           <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -545,14 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/heading.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -569,36 +737,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo-white@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/home-classic-corporate.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="662" column="75" lean-forward="false" selection-start-line="662" selection-start-column="70" selection-end-line="662" selection-end-column="75" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#15;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#15;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#15;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#15;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/heading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo@1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo@2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/home-classic-one-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="77" column="37" lean-forward="true" selection-start-line="69" selection-start-column="36" selection-end-line="77" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/home-classic-web-agency.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="604" column="89" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1691" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="718">
+          <caret line="927" column="390" lean-forward="true" selection-start-line="600" selection-start-column="28" selection-end-line="927" selection-end-column="390" />
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/header_penpot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/header_tablet.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1048">
-          <caret line="1691" column="7" lean-forward="false" selection-start-line="1691" selection-start-column="7" selection-end-line="1691" selection-end-column="7" />
+        <state relative-caret-position="673">
+          <caret line="273" column="92" lean-forward="false" selection-start-line="273" selection-start-column="92" selection-end-line="273" selection-end-column="92" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
