@@ -3099,6 +3099,12 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {padding: 20px; margin: 0 
 .list-style-3 li { position: relative; padding: 0 0 0 22px; margin: 0 0 15px 0;}
 .list-style-3 li:before { content: ""; width: 10px; height: 1px; background-color: #ff214f; position: absolute; top: 13px; left: 0; }
 
+/* list style special */
+.list-style-special { list-style: none; margin: 0; padding: 0;}
+.list-style-special li { position: relative; padding: 0 0 0 0px; margin: 10px 0 10px 0;}
+.list-style-special li:before { content: ""; width: 50px; height: 2px; background-color: #ff214f; position: absolute; top: 13px; left: 0; }
+
+
 /* list style 4 */
 .list-style-4 { list-style: none; margin: 0; padding: 0;}
 .list-style-4 li { position: relative; padding: 0 0 10px 22px; margin: 0 0 10px 0; border-bottom: 1px solid rgba(0, 0, 0, 0.1);}
