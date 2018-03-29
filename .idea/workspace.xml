@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/project.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/react.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/react-course.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/project-management-course.html" afterPath="$PROJECT_DIR$/public/project-management-course.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,8 +47,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13">
-              <caret line="739" column="83" lean-forward="true" selection-start-line="739" selection-start-column="83" selection-end-line="739" selection-end-column="83" />
+            <state relative-caret-position="673">
+              <caret line="883" column="185" lean-forward="false" selection-start-line="883" selection-start-column="185" selection-end-line="883" selection-end-column="185" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -79,7 +79,21 @@
                 <element signature="e#54467#54473#0" expanded="true" />
                 <element signature="e#54474#54480#0" expanded="true" />
                 <element signature="e#54480#54486#0" expanded="true" />
+                <element signature="e#56201#56207#0" expanded="true" />
+                <element signature="e#56207#56213#0" expanded="true" />
+                <element signature="e#56214#56220#0" expanded="true" />
+                <element signature="e#56220#56226#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="react-course.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/react-course.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="658">
+              <caret line="409" column="68" lean-forward="false" selection-start-line="409" selection-start-column="68" selection-end-line="409" selection-end-column="68" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -208,6 +222,7 @@
         <option value="$PROJECT_DIR$/public/cisco-course.html" />
         <option value="$PROJECT_DIR$/public/android-course.html" />
         <option value="$PROJECT_DIR$/public/project-management-course.html" />
+        <option value="$PROJECT_DIR$/public/react-course.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
@@ -262,24 +277,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="public">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="tekwill-academy-landing">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="public">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="images">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -461,12 +458,12 @@
       <workItem from="1520865274891" duration="27450000" />
       <workItem from="1521460472082" duration="544000" />
       <workItem from="1521469789111" duration="3883000" />
-      <workItem from="1521709043239" duration="40555000" />
+      <workItem from="1521709043239" duration="41711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93006000" />
+    <option name="totallyTimeSpent" value="94162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -502,13 +499,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/blog-post-layout-02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="57" column="128" lean-forward="false" selection-start-line="57" selection-start-column="128" selection-end-line="57" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/images/favicon.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -879,10 +869,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/react-course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="409" column="68" lean-forward="false" selection-start-line="409" selection-start-column="68" selection-end-line="409" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="739" column="83" lean-forward="true" selection-start-line="739" selection-start-column="83" selection-end-line="739" selection-end-column="83" />
+        <state relative-caret-position="673">
+          <caret line="883" column="185" lean-forward="false" selection-start-line="883" selection-start-column="185" selection-end-line="883" selection-end-column="185" />
           <folding>
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -913,6 +911,10 @@
             <element signature="e#54467#54473#0" expanded="true" />
             <element signature="e#54474#54480#0" expanded="true" />
             <element signature="e#54480#54486#0" expanded="true" />
+            <element signature="e#56201#56207#0" expanded="true" />
+            <element signature="e#56207#56213#0" expanded="true" />
+            <element signature="e#56214#56220#0" expanded="true" />
+            <element signature="e#56220#56226#0" expanded="true" />
           </folding>
         </state>
       </provider>
