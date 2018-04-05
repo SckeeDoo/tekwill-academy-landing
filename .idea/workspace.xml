@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/hop.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-blog-clean.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-blog-grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-blog-masonry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-blog-personal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-classic-corporate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-classic-digital-agency.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-classic-innovation-agency.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-classic-interactive-agency.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-classic-one-page-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-classic-one-page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-classic-start-up.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-classic-web-agency.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-creative-branding-agency.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-creative-business.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-creative-designer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-creative-simple-portfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-creative-small-business.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-creative-studio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-portfolio-centered-slides.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-portfolio-full-screen-vertical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-portfolio-metro.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-portfolio-minimal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-portfolio-multiple-carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-portfolio-parallax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-portfolio-personal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/home-portfolio-photographer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/single-project-page-03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/single-project-page-08.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-    </list>
+    <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -272,6 +240,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -368,27 +337,8 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="tekwill-academy-landing">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="public">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="images">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -495,17 +445,18 @@
       <workItem from="1521469789111" duration="3883000" />
       <workItem from="1521709043239" duration="43877000" />
       <workItem from="1522843237942" duration="359000" />
+      <workItem from="1522916760680" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96687000" />
+    <option name="totallyTimeSpent" value="96695000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17746182" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17693523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
