@@ -4,6 +4,7 @@
     <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/java-course.html" afterPath="$PROJECT_DIR$/public/java-course.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +25,8 @@
       <file leaf-file-name="java-course.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/java-course.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="512" column="24" lean-forward="false" selection-start-line="512" selection-start-column="24" selection-end-line="512" selection-end-column="24" />
+            <state relative-caret-position="855">
+              <caret line="304" column="204" lean-forward="false" selection-start-line="304" selection-start-column="204" selection-end-line="304" selection-end-column="204" />
               <folding>
                 <element signature="e#4899#4905#0" expanded="true" />
                 <element signature="e#4905#4911#0" expanded="true" />
@@ -45,8 +46,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="1069" column="71" lean-forward="false" selection-start-line="1069" selection-start-column="71" selection-end-line="1069" selection-end-column="71" />
+            <state relative-caret-position="448">
+              <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -81,7 +82,6 @@
                 <element signature="e#56458#56464#0" expanded="true" />
                 <element signature="e#56465#56471#0" expanded="true" />
                 <element signature="e#56471#56477#0" expanded="true" />
-                <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -223,13 +223,13 @@
         <option value="$PROJECT_DIR$/public/react-course.html" />
         <option value="$PROJECT_DIR$/public/android-course.html" />
         <option value="$PROJECT_DIR$/public/istqb-course.html" />
-        <option value="$PROJECT_DIR$/public/java-course.html" />
         <option value="$PROJECT_DIR$/public/sql-course.html" />
         <option value="$PROJECT_DIR$/public/design-thinking-course.html" />
         <option value="$PROJECT_DIR$/public/cisco-course.html" />
         <option value="$PROJECT_DIR$/public/project-management-course.html" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$USER_HOME$/Downloads/themeforest-20645944-pofo-creative-agency-corporate-and-portfolio-multipurpose-template/html/team-carousel.html" />
+        <option value="$PROJECT_DIR$/public/java-course.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
@@ -509,12 +509,12 @@
       <workItem from="1522843237942" duration="359000" />
       <workItem from="1522916760680" duration="446000" />
       <workItem from="1522918200966" duration="4733000" />
-      <workItem from="1523345503374" duration="8098000" />
+      <workItem from="1523345503374" duration="10314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109964000" />
+    <option name="totallyTimeSpent" value="112180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -710,25 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/java-course.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="512" column="24" lean-forward="false" selection-start-line="512" selection-start-column="24" selection-end-line="512" selection-end-column="24" />
-          <folding>
-            <element signature="e#4899#4905#0" expanded="true" />
-            <element signature="e#4905#4911#0" expanded="true" />
-            <element signature="e#4914#4920#0" expanded="true" />
-            <element signature="e#4920#4926#0" expanded="true" />
-            <element signature="e#4939#4945#0" expanded="true" />
-            <element signature="e#4945#4951#0" expanded="true" />
-            <element signature="e#4954#4960#0" expanded="true" />
-            <element signature="e#4960#4966#0" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/images/mentori/dorin.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -750,10 +731,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/java-course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="304" column="204" lean-forward="false" selection-start-line="304" selection-start-column="204" selection-end-line="304" selection-end-column="204" />
+          <folding>
+            <element signature="e#4899#4905#0" expanded="true" />
+            <element signature="e#4905#4911#0" expanded="true" />
+            <element signature="e#4914#4920#0" expanded="true" />
+            <element signature="e#4920#4926#0" expanded="true" />
+            <element signature="e#4939#4945#0" expanded="true" />
+            <element signature="e#4945#4951#0" expanded="true" />
+            <element signature="e#4954#4960#0" expanded="true" />
+            <element signature="e#4960#4966#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="1069" column="71" lean-forward="false" selection-start-line="1069" selection-start-column="71" selection-end-line="1069" selection-end-column="71" />
+        <state relative-caret-position="448">
+          <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -788,7 +788,6 @@
             <element signature="e#56458#56464#0" expanded="true" />
             <element signature="e#56465#56471#0" expanded="true" />
             <element signature="e#56471#56477#0" expanded="true" />
-            <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
