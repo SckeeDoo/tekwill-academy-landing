@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cisco-course.html" afterPath="$PROJECT_DIR$/public/cisco-course.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+            <state relative-caret-position="230">
+              <caret line="1133" column="196" lean-forward="true" selection-start-line="1132" selection-start-column="48" selection-end-line="1133" selection-end-column="196" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -95,21 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cisco-course.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cisco-course.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/cisco-course.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="256" column="64" lean-forward="true" selection-start-line="256" selection-start-column="52" selection-end-line="256" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="design-thinking-course.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/design-thinking-course.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="131" column="100" lean-forward="false" selection-start-line="131" selection-start-column="95" selection-end-line="131" selection-end-column="100" />
+            <state relative-caret-position="688">
+              <caret line="307" column="56" lean-forward="false" selection-start-line="307" selection-start-column="56" selection-end-line="307" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -119,7 +109,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>rZ:45</find>
       <find>counter-feature-box-1</find>
       <find>Uniqu</find>
       <find>Clients</find>
@@ -149,6 +138,7 @@
       <find>rs-parallaxlevel-2</find>
       <find>We</find>
       <find>Durat</find>
+      <find>Chihai</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -180,8 +170,8 @@
         <option value="$PROJECT_DIR$/public/sql-course.html" />
         <option value="$PROJECT_DIR$/public/java-course.html" />
         <option value="$PROJECT_DIR$/public/design-thinking-course.html" />
-        <option value="$PROJECT_DIR$/public/cisco-course.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/cisco-course.html" />
       </list>
     </option>
   </component>
@@ -420,12 +410,12 @@
       <workItem from="1522843237942" duration="359000" />
       <workItem from="1522916760680" duration="446000" />
       <workItem from="1522918200966" duration="4733000" />
-      <workItem from="1523345503374" duration="14245000" />
+      <workItem from="1523345503374" duration="14550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116111000" />
+    <option name="totallyTimeSpent" value="116416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -614,6 +604,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/themeforest-20645944-pofo-creative-agency-corporate-and-portfolio-multipurpose-template/html/clients.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="800" column="18" lean-forward="true" selection-start-line="763" selection-start-column="8" selection-end-line="800" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/themeforest-20645944-pofo-creative-agency-corporate-and-portfolio-multipurpose-template/html/team-carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="883">
+          <caret line="646" column="52" lean-forward="true" selection-start-line="646" selection-start-column="52" selection-end-line="646" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/design-thinking-course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="131" column="100" lean-forward="false" selection-start-line="131" selection-start-column="95" selection-end-line="131" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/java-course.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-570">
@@ -633,42 +647,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/themeforest-20645944-pofo-creative-agency-corporate-and-portfolio-multipurpose-template/html/clients.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="800" column="18" lean-forward="true" selection-start-line="763" selection-start-column="8" selection-end-line="800" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/themeforest-20645944-pofo-creative-agency-corporate-and-portfolio-multipurpose-template/html/team-carousel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="883">
-          <caret line="646" column="52" lean-forward="true" selection-start-line="646" selection-start-column="52" selection-end-line="646" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/cisco-course.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="256" column="64" lean-forward="true" selection-start-line="256" selection-start-column="52" selection-end-line="256" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/design-thinking-course.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="131" column="100" lean-forward="false" selection-start-line="131" selection-start-column="95" selection-end-line="131" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+        <state relative-caret-position="230">
+          <caret line="1133" column="196" lean-forward="true" selection-start-line="1132" selection-start-column="48" selection-end-line="1133" selection-end-column="196" />
           <folding>
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -704,6 +686,14 @@
             <element signature="e#54918#54924#0" expanded="true" />
             <element signature="e#54924#54930#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cisco-course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="307" column="56" lean-forward="false" selection-start-line="307" selection-start-column="56" selection-end-line="307" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
