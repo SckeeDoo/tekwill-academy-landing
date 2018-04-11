@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/android-course.html" afterPath="$PROJECT_DIR$/public/android-course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cisco-course.html" afterPath="$PROJECT_DIR$/public/cisco-course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/design-thinking-course.html" afterPath="$PROJECT_DIR$/public/design-thinking-course.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/java-course.html" afterPath="$PROJECT_DIR$/public/java-course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/project-management-course.html" afterPath="$PROJECT_DIR$/public/project-management-course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/react-course.html" afterPath="$PROJECT_DIR$/public/react-course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sql-course.html" afterPath="$PROJECT_DIR$/public/sql-course.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,8 +44,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="986" column="137" lean-forward="true" selection-start-line="986" selection-start-column="137" selection-end-line="986" selection-end-column="137" />
+            <state relative-caret-position="-895">
+              <caret line="812" column="184" lean-forward="false" selection-start-line="812" selection-start-column="184" selection-end-line="812" selection-end-column="184" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -79,14 +72,14 @@
                 <element signature="e#51423#51429#0" expanded="true" />
                 <element signature="e#51430#51436#0" expanded="true" />
                 <element signature="e#51436#51442#0" expanded="true" />
-                <element signature="e#53200#53206#0" expanded="true" />
-                <element signature="e#53206#53212#0" expanded="true" />
-                <element signature="e#53213#53219#0" expanded="true" />
-                <element signature="e#53219#53225#0" expanded="true" />
-                <element signature="e#54924#54930#0" expanded="true" />
-                <element signature="e#54930#54936#0" expanded="true" />
-                <element signature="e#54937#54943#0" expanded="true" />
-                <element signature="e#54943#54949#0" expanded="true" />
+                <element signature="e#53199#53205#0" expanded="true" />
+                <element signature="e#53205#53211#0" expanded="true" />
+                <element signature="e#53212#53218#0" expanded="true" />
+                <element signature="e#53218#53224#0" expanded="true" />
+                <element signature="e#54923#54929#0" expanded="true" />
+                <element signature="e#54929#54935#0" expanded="true" />
+                <element signature="e#54936#54942#0" expanded="true" />
+                <element signature="e#54942#54948#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,11 +105,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="design-thinking-course.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/design-thinking-course.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="131" column="100" lean-forward="false" selection-start-line="131" selection-start-column="95" selection-end-line="131" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>slide-3238-layer-4</find>
       <find>rZ:45</find>
       <find>counter-feature-box-1</find>
       <find>Uniqu</find>
@@ -146,6 +148,7 @@
       <find>modem</find>
       <find>rs-parallaxlevel-2</find>
       <find>We</find>
+      <find>Durat</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -417,12 +420,12 @@
       <workItem from="1522843237942" duration="359000" />
       <workItem from="1522916760680" duration="446000" />
       <workItem from="1522918200966" duration="4733000" />
-      <workItem from="1523345503374" duration="13650000" />
+      <workItem from="1523345503374" duration="14079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115516000" />
+    <option name="totallyTimeSpent" value="115945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -630,14 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/design-thinking-course.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="241" column="79" lean-forward="false" selection-start-line="241" selection-start-column="79" selection-end-line="241" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/themeforest-20645944-pofo-creative-agency-corporate-and-portfolio-multipurpose-template/html/clients.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -662,10 +657,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/design-thinking-course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="131" column="100" lean-forward="false" selection-start-line="131" selection-start-column="95" selection-end-line="131" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="986" column="137" lean-forward="true" selection-start-line="986" selection-start-column="137" selection-end-line="986" selection-end-column="137" />
+        <state relative-caret-position="-895">
+          <caret line="812" column="184" lean-forward="false" selection-start-line="812" selection-start-column="184" selection-end-line="812" selection-end-column="184" />
           <folding>
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -692,14 +695,14 @@
             <element signature="e#51423#51429#0" expanded="true" />
             <element signature="e#51430#51436#0" expanded="true" />
             <element signature="e#51436#51442#0" expanded="true" />
-            <element signature="e#53200#53206#0" expanded="true" />
-            <element signature="e#53206#53212#0" expanded="true" />
-            <element signature="e#53213#53219#0" expanded="true" />
-            <element signature="e#53219#53225#0" expanded="true" />
-            <element signature="e#54924#54930#0" expanded="true" />
-            <element signature="e#54930#54936#0" expanded="true" />
-            <element signature="e#54937#54943#0" expanded="true" />
-            <element signature="e#54943#54949#0" expanded="true" />
+            <element signature="e#53199#53205#0" expanded="true" />
+            <element signature="e#53205#53211#0" expanded="true" />
+            <element signature="e#53212#53218#0" expanded="true" />
+            <element signature="e#53218#53224#0" expanded="true" />
+            <element signature="e#54923#54929#0" expanded="true" />
+            <element signature="e#54929#54935#0" expanded="true" />
+            <element signature="e#54936#54942#0" expanded="true" />
+            <element signature="e#54942#54948#0" expanded="true" />
           </folding>
         </state>
       </provider>
